@@ -1,0 +1,15 @@
+/workspaces/cursonet/bin/Debug/net8.0/cursonet
+/workspaces/cursonet/bin/Debug/net8.0/cursonet.deps.json
+/workspaces/cursonet/bin/Debug/net8.0/cursonet.runtimeconfig.json
+/workspaces/cursonet/bin/Debug/net8.0/cursonet.dll
+/workspaces/cursonet/bin/Debug/net8.0/cursonet.pdb
+/workspaces/cursonet/obj/Debug/net8.0/cursonet.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cursonet/obj/Debug/net8.0/cursonet.AssemblyInfoInputs.cache
+/workspaces/cursonet/obj/Debug/net8.0/cursonet.AssemblyInfo.cs
+/workspaces/cursonet/obj/Debug/net8.0/cursonet.csproj.CoreCompileInputs.cache
+/workspaces/cursonet/obj/Debug/net8.0/cursonet.sourcelink.json
+/workspaces/cursonet/obj/Debug/net8.0/cursonet.dll
+/workspaces/cursonet/obj/Debug/net8.0/refint/cursonet.dll
+/workspaces/cursonet/obj/Debug/net8.0/cursonet.pdb
+/workspaces/cursonet/obj/Debug/net8.0/cursonet.genruntimeconfig.cache
+/workspaces/cursonet/obj/Debug/net8.0/ref/cursonet.dll

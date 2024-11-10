@@ -11,3 +11,22 @@ Console.WriteLine(foo3.Name);
 
 var boo = new Boo("Lucas");
 
+Console.WriteLine(boo.Name);
+
+boo.Name = "Marcos";
+
+Console.WriteLine(boo.Name);
+
+var boo2 = new Boo2("Pedro");
+
+// No es posible cambiar el valor de Name, ya que es privado
+//boo2.Name = "Ismael";
+
+Console.WriteLine(boo2.Name);
+
+boo2.ChangeName("Ismael");
+
+Console.WriteLine(boo2.Name);
+
+
+

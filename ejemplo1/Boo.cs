@@ -35,8 +35,14 @@ class Boo2 {
         Console.WriteLine(Name);
     }
     public void ChangeName(string name) {
-        Name = name;
+    // No se puede asignar valor a una propiedad si el atributo es init, ya que solo permite inicializar 
+    //    Name = name;
 
     }   
 
+    class ObjectCompare {
+
+    }
+
+}
 }

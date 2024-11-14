@@ -84,6 +84,6 @@ public readonly record struct Persona(string FirstName, string LastName);
 // Ejemplo de Aves 
 
 
-var aguila = new Aguila(10, 100);
+//var aguila = new Aguila(10, 100);
 
-Ave pinguino = new Pinguino(5);
+//Ave pinguino = new Pinguino(5);
